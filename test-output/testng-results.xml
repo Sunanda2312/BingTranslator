@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13039" started-at="2018-06-28T12:23:46Z" finished-at="2018-06-28T12:23:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13039" started-at="2018-06-28T12:23:46Z" finished-at="2018-06-28T12:23:59Z">
+      <class name="Bing">
+        <test-method status="PASS" signature="TestInitiator()[pri:0, instance:Bing@523884b2]" name="TestInitiator" is-config="true" duration-ms="5487" started-at="2018-06-28T12:23:46Z" finished-at="2018-06-28T12:23:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestInitiator -->
+        <test-method status="PASS" signature="Test001_LaunchBingTranslator()[pri:0, instance:Bing@523884b2]" name="Test001_LaunchBingTranslator" duration-ms="1668" started-at="2018-06-28T12:23:51Z" finished-at="2018-06-28T12:23:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test001_LaunchBingTranslator -->
+        <test-method status="PASS" signature="Test002_Language1()[pri:0, instance:Bing@523884b2]" name="Test002_Language1" duration-ms="1239" started-at="2018-06-28T12:23:53Z" finished-at="2018-06-28T12:23:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test002_Language1 -->
+        <test-method status="PASS" signature="Test003_Language()[pri:0, instance:Bing@523884b2]" name="Test003_Language" duration-ms="1193" started-at="2018-06-28T12:23:54Z" finished-at="2018-06-28T12:23:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test003_Language -->
+        <test-method status="PASS" signature="Test004_EnterText()[pri:0, instance:Bing@523884b2]" name="Test004_EnterText" duration-ms="3427" started-at="2018-06-28T12:23:56Z" finished-at="2018-06-28T12:23:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test004_EnterText -->
+      </class> <!-- Bing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
